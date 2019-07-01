@@ -1,5 +1,5 @@
 # Python for Data Science and machine Learning Projects
-
+<img src="Pierian_Data_Logo.png"></img>
 * Programming with Python
 * NumPy with Python
 * Using pandas Data Frames to solve complex tasks
