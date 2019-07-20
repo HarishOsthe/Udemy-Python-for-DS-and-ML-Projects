@@ -4,9 +4,9 @@
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
 Here's a picture of the three different Iris types:</p><br>
-**Setosa**
+**1) Setosa**
 <img src="http://upload.wikimedia.org/wikipedia/commons/5/56/Kosaciec_szczecinkowaty_Iris_setosa.jpg"><br></br>
-**Versicolor**
+**2) Versicolor**
 <img src="http://upload.wikimedia.org/wikipedia/commons/4/41/Iris_versicolor_3.jpg"><br></br>
-**Virginica**
+**3) Virginica**
 <img src="http://upload.wikimedia.org/wikipedia/commons/9/9f/Iris_virginica.jpg"><br></br>
